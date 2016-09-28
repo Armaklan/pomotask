@@ -1,0 +1,14 @@
+{
+  "name": "pomotask",
+  "version": "0.0.0",
+  "description": "Pomodoro and Todo.txt application",
+  "main": "electron.js",
+  "dependencies": {
+    "vue": "^1.0.26",
+    "vue-electron": "^1.0.0",
+    "vue-resource": "^0.7.0",
+    "vue-router": "^0.7.13"
+  },
+  "devDependencies": {},
+  "author": "Armaklan <lionel.zuber@armaklan.org>"
+}

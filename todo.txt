@@ -1,0 +1,5 @@
+Make some style
+Add task managment (Add, Edit, Delete, Done)
+Add Todo.txt write and read for task
+Link pomodoro to task in activiy board
+Add sound on notification
